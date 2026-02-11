@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c2hdJU4Pm5vZpV-5b7tMYbfCG36wZNRr?usp=sharing)
 
 ## Overview
-End-to-end machine learning pipeline for detecting malicious URLs using supervised learning techniques.
+End-to-end machine learning pipeline for detecting malicious URLs using feature engineering and supervised classification models.
 
 ## Project Pipeline
 - Data cleaning and preprocessing
@@ -13,15 +13,11 @@ End-to-end machine learning pipeline for detecting malicious URLs using supervis
 - Model evaluation and performance analysis
 
 ## Tech Stack
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Google Colab
+Python, Pandas, NumPy, Scikit-learn, Google Colab
 
 ## Repository Structure
-- `Pipeline_214034563.ipynb` – Full implementation notebook
+- `Malicious_URL_Detection_System.ipynb` – Full implementation notebook
 - `README.md` – Project documentation
 
 ## Results
-Model trained and evaluated on malicious URL dataset with strong classification performance.
+Achieved strong classification performance on malicious URL dataset.
